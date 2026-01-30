@@ -1,0 +1,5 @@
+{
+  "name": "CinePrompt AI - Video Motion Analyzer",
+  "description": "Analyze video segments to generate detailed AI prompts for motion, lighting, and effects replication.",
+  "requestFramePermissions": []
+}
